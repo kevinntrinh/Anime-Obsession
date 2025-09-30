@@ -1,0 +1,1 @@
+My try at creating a Full-Stack Web App using ReactJS and NodeJS. Anime Obsession is a website that allows users to search for anime using the MyAnimeList database / API. react-app contains the code that is used for the website, while server includes the proxy server used to handle API requests.

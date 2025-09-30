@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.13",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "react-router-dom": "^6.30.1",
+    "react-use": "^17.6.0",
+    "tailwindcss": "^4.1.13",
+    "use-debounce": "^10.0.6"
+  }
+}
