@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e81ac3a-5705-4704-8f16-ba246a107890" name="Changes" comment="" />
+    <list default="true" id="3e81ac3a-5705-4704-8f16-ba246a107890" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +38,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.editor",
+    "settings.editor.selected.configurable": "vcs.Git",
     "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2025.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
@@ -88,7 +90,7 @@
       <workItem from="1758238664815" duration="15335000" />
       <workItem from="1758287976147" duration="1250000" />
       <workItem from="1758394591488" duration="1404000" />
-      <workItem from="1759263654003" duration="2479000" />
+      <workItem from="1759263654003" duration="2823000" />
     </task>
     <servers />
   </component>
